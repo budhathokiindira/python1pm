@@ -1,0 +1,5 @@
+data =(1,2,3,4,5,1)
+a =(23,24)
+data.append(a)
+data.extend(a)
+print(data)
